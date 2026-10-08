@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Patrick 👋
 
-<!--
-**sasakapatrick-999/sasakapatrick-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Marketer & QA pro turned AI/software developer 🇰🇪
+I build practical web tools for African communities, and I learn in public.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 💧 **AquaMap**: a mobile-first PWA that helps people find water vendors in water-scarce communities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My background
+- Head of Marketing (Custom Prints Kenya, Hakuna Matata Agency)
+- Food Science and quality assurance experience
+- Now building AI and development skills
+
+## Currently learning
+- AI development, web apps, GitHub workflows
+
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/patrick-sasaka-457bb7145/)
